@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Ntsakelo Makhuvele  
 
-<!--
-**Ntsakelo-Makhuvele/Ntsakelo-Makhuvele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Salesforce Marketing Cloud Developer | Aspiring Data Engineer**  
 
-Here are some ideas to get you started:
+I’m passionate about **building impactful solutions** that combine clean software design with data-driven decision-making. With experience in **full-stack development** and **marketing cloud automation**, I thrive at the intersection of **code, data, and problem-solving**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies  
+
+**Languages & Frameworks**  
+- JavaScript (React, Node.js)  
+- Python (Pandas, FastAPI)  
+- SQL  
+
+**Cloud & Platforms**  
+- AWS (Developer Associate in progress)  
+- Google Cloud Platform  
+- Salesforce Marketing Cloud  
+
+**Other Tools**  
+- Git & GitHub  
+- Power BI  
+- REST APIs & Integrations  
+
+---
+
+## 📌 Featured Project  
+
+### 🔹 [Slipify](https://github.com/yourusername/slipify) *(In Progress)*  
+A **till slip reader and personal finance tracker** that helps users digitize receipts, visualize spending patterns, and make smarter financial decisions.  
+
+- 🛠️ **Backend:** Node.js  
+- 🎨 **Frontend:** React  
+- 📊 **Features:** Monthly spend trends, category insights, and merchant breakdowns  
+- 🎯 **Goal:** Empower users to take control of their spending habits through clear, data-driven insights  
+
+---
+
+## 📈 GitHub Stats  
+
+![Ntsakelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced **data engineering** concepts (AWS, pipelines, big data tools)  
+- **Mobile app architecture** and how apps interact with OS  
+- Building scalable personal projects that solve real-world problems  
+
+---
+
+## 📫 Let’s Connect  
+- LinkedIn: [Ntsakelo Makhuvele](https://linkedin.com/in/ntsakelo-makhuvele-041535201)  
+- Email: ntsakeloarnold00@gmail.com  
+
+---
+✨ *Always learning. Always building. Always growing.* ✨
