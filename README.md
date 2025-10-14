@@ -14,13 +14,11 @@ I’m passionate about **building impactful solutions** that combine clean softw
 - SQL  
 
 **Cloud & Platforms**  
-- AWS (Developer Associate in progress)  
 - Google Cloud Platform  
 - Salesforce Marketing Cloud  
 
 **Other Tools**  
 - Git & GitHub  
-- Power BI  
 - REST APIs & Integrations  
 
 ---
